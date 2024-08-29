@@ -22,4 +22,5 @@ checkBtn.addEventListener("click", ()=>{
 
 clearBtn.addEventListener("click", ()=>{
     result.textContent = "";
+    input.value = "";
   })
